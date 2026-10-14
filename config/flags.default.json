@@ -1,0 +1,36 @@
+{
+  "hazard.fire.source": "cached",
+  "hazard.fire.projection": true,
+  "hazard.typhoon.enabled": true,
+  "hazard.flood.enabled": false,
+  "hazard.simulator.scenario": "typhoon_a",
+
+  "capture.live_only": true,
+  "capture.require_gps": true,
+  "capture.require_heading": true,
+  "capture.server_challenge": true,
+
+  "auth.enabled": true,
+  "auth.check.provenance": true,
+  "auth.check.synthid": false,
+  "auth.check.cross_angle": true,
+  "auth.check.gps_zone": true,
+  "auth.check.time": true,
+  "auth.check.duplicates": true,
+  "auth.check.visual_forensics": true,
+  "auth.route_threshold": 0.6,
+
+  "vision.mode": "mock",
+  "vision.ornateness": true,
+  "vision.damage": true,
+  "risk.model": "rules",
+  "exposure.engine": "local",
+
+  "docs.risk_reports": false,
+  "policy.search": false,
+  "dispatch.priority_mode": "severity_exposure",
+  "dispatch.auto_assign": true,
+  "dispatch.customer_messages": true,
+  "workflow.human_review_required": true,
+  "workflow.event_driven": "direct"
+}

@@ -1,0 +1,3802 @@
+[
+  {
+    "policy_id": "POL-10001",
+    "building_id": "BLD-7001",
+    "address": "Plot 261, Sector 28, Demo Town",
+    "lat": 14.027382,
+    "lng": 100.498029,
+    "construction_type": "rcc",
+    "year_built": 1973,
+    "storeys": 5,
+    "insured_value": 24350000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4870000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 487000.0
+  },
+  {
+    "policy_id": "POL-10002",
+    "building_id": "BLD-7002",
+    "address": "Plot 47, Sector 18, Demo Town",
+    "lat": 13.972737,
+    "lng": 100.514277,
+    "construction_type": "steel",
+    "year_built": 1955,
+    "storeys": 5,
+    "insured_value": 16560000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 3312000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 331200.0
+  },
+  {
+    "policy_id": "POL-10003",
+    "building_id": "BLD-7003",
+    "address": "Plot 8, Sector 27, Demo Town",
+    "lat": 14.007063,
+    "lng": 100.504589,
+    "construction_type": "rcc",
+    "year_built": 1957,
+    "storeys": 1,
+    "insured_value": 9560000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1912000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 191200.0
+  },
+  {
+    "policy_id": "POL-10004",
+    "building_id": "BLD-7004",
+    "address": "Plot 303, Sector 27, Demo Town",
+    "lat": 14.017764,
+    "lng": 100.500805,
+    "construction_type": "masonry",
+    "year_built": 1979,
+    "storeys": 6,
+    "insured_value": 17660000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 3532000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 353200.0
+  },
+  {
+    "policy_id": "POL-10005",
+    "building_id": "BLD-7005",
+    "address": "Plot 283, Sector 30, Demo Town",
+    "lat": 13.996647,
+    "lng": 100.505183,
+    "construction_type": "steel",
+    "year_built": 1982,
+    "storeys": 3,
+    "insured_value": 15350000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3070000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 307000.0
+  },
+  {
+    "policy_id": "POL-10006",
+    "building_id": "BLD-7006",
+    "address": "Plot 9, Sector 28, Demo Town",
+    "lat": 13.985691,
+    "lng": 100.466537,
+    "construction_type": "rcc",
+    "year_built": 1977,
+    "storeys": 2,
+    "insured_value": 5210000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1042000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 104200.0
+  },
+  {
+    "policy_id": "POL-10007",
+    "building_id": "BLD-7007",
+    "address": "Plot 45, Sector 10, Demo Town",
+    "lat": 14.01779,
+    "lng": 100.502884,
+    "construction_type": "wood",
+    "year_built": 2002,
+    "storeys": 1,
+    "insured_value": 14950000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2990000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 299000.0
+  },
+  {
+    "policy_id": "POL-10008",
+    "building_id": "BLD-7008",
+    "address": "Plot 91, Sector 22, Demo Town",
+    "lat": 13.970484,
+    "lng": 100.466067,
+    "construction_type": "rcc",
+    "year_built": 2007,
+    "storeys": 5,
+    "insured_value": 40260000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8052000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 805200.0
+  },
+  {
+    "policy_id": "POL-10009",
+    "building_id": "BLD-7009",
+    "address": "Plot 203, Sector 14, Demo Town",
+    "lat": 13.994139,
+    "lng": 100.512643,
+    "construction_type": "mixed",
+    "year_built": 1950,
+    "storeys": 3,
+    "insured_value": 20420000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4084000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 408400.0
+  },
+  {
+    "policy_id": "POL-10010",
+    "building_id": "BLD-7010",
+    "address": "Plot 309, Sector 21, Demo Town",
+    "lat": 13.978871,
+    "lng": 100.460394,
+    "construction_type": "rcc",
+    "year_built": 1955,
+    "storeys": 2,
+    "insured_value": 49800000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9960000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 996000.0
+  },
+  {
+    "policy_id": "POL-10011",
+    "building_id": "BLD-7011",
+    "address": "Plot 326, Sector 8, Demo Town",
+    "lat": 13.971431,
+    "lng": 100.485933,
+    "construction_type": "masonry",
+    "year_built": 1997,
+    "storeys": 3,
+    "insured_value": 12020000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2404000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 240400.0
+  },
+  {
+    "policy_id": "POL-10012",
+    "building_id": "BLD-7012",
+    "address": "Plot 198, Sector 6, Demo Town",
+    "lat": 14.021335,
+    "lng": 100.499945,
+    "construction_type": "rcc",
+    "year_built": 1989,
+    "storeys": 2,
+    "insured_value": 8520000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1704000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 170400.0
+  },
+  {
+    "policy_id": "POL-10013",
+    "building_id": "BLD-7013",
+    "address": "Plot 352, Sector 13, Demo Town",
+    "lat": 14.012031,
+    "lng": 100.459002,
+    "construction_type": "mixed",
+    "year_built": 1960,
+    "storeys": 4,
+    "insured_value": 28590000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5718000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 571800.0
+  },
+  {
+    "policy_id": "POL-10014",
+    "building_id": "BLD-7014",
+    "address": "Plot 287, Sector 21, Demo Town",
+    "lat": 13.957415,
+    "lng": 100.516357,
+    "construction_type": "steel",
+    "year_built": 1959,
+    "storeys": 3,
+    "insured_value": 12960000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2592000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 259200.0
+  },
+  {
+    "policy_id": "POL-10015",
+    "building_id": "BLD-7015",
+    "address": "Plot 229, Sector 8, Demo Town",
+    "lat": 13.952326,
+    "lng": 100.463647,
+    "construction_type": "masonry",
+    "year_built": 1972,
+    "storeys": 3,
+    "insured_value": 14920000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2984000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 298400.0
+  },
+  {
+    "policy_id": "POL-10016",
+    "building_id": "BLD-7016",
+    "address": "Plot 10, Sector 16, Demo Town",
+    "lat": 14.043022,
+    "lng": 100.496103,
+    "construction_type": "mixed",
+    "year_built": 1989,
+    "storeys": 1,
+    "insured_value": 30310000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6062000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 606200.0
+  },
+  {
+    "policy_id": "POL-10017",
+    "building_id": "BLD-7017",
+    "address": "Plot 189, Sector 24, Demo Town",
+    "lat": 13.957772,
+    "lng": 100.456769,
+    "construction_type": "masonry",
+    "year_built": 1966,
+    "storeys": 3,
+    "insured_value": 23750000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4750000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 475000.0
+  },
+  {
+    "policy_id": "POL-10018",
+    "building_id": "BLD-7018",
+    "address": "Plot 16, Sector 28, Demo Town",
+    "lat": 13.958282,
+    "lng": 100.491136,
+    "construction_type": "rcc",
+    "year_built": 1951,
+    "storeys": 5,
+    "insured_value": 43150000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8630000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 863000.0
+  },
+  {
+    "policy_id": "POL-10019",
+    "building_id": "BLD-7019",
+    "address": "Plot 170, Sector 13, Demo Town",
+    "lat": 13.975786,
+    "lng": 100.454623,
+    "construction_type": "mixed",
+    "year_built": 2008,
+    "storeys": 4,
+    "insured_value": 21980000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4396000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 439600.0
+  },
+  {
+    "policy_id": "POL-10020",
+    "building_id": "BLD-7020",
+    "address": "Plot 308, Sector 3, Demo Town",
+    "lat": 14.02385,
+    "lng": 100.451377,
+    "construction_type": "rcc",
+    "year_built": 1979,
+    "storeys": 6,
+    "insured_value": 3430000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 686000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 68600.0
+  },
+  {
+    "policy_id": "POL-10021",
+    "building_id": "BLD-7021",
+    "address": "Plot 6, Sector 12, Demo Town",
+    "lat": 14.040449,
+    "lng": 100.505552,
+    "construction_type": "wood",
+    "year_built": 1975,
+    "storeys": 5,
+    "insured_value": 14280000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2856000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 285600.0
+  },
+  {
+    "policy_id": "POL-10022",
+    "building_id": "BLD-7022",
+    "address": "Plot 180, Sector 27, Demo Town",
+    "lat": 13.971173,
+    "lng": 100.536819,
+    "construction_type": "mixed",
+    "year_built": 1955,
+    "storeys": 6,
+    "insured_value": 8460000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1692000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 169200.0
+  },
+  {
+    "policy_id": "POL-10023",
+    "building_id": "BLD-7023",
+    "address": "Plot 141, Sector 30, Demo Town",
+    "lat": 13.967199,
+    "lng": 100.47108,
+    "construction_type": "masonry",
+    "year_built": 2002,
+    "storeys": 4,
+    "insured_value": 23630000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4726000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 472600.0
+  },
+  {
+    "policy_id": "POL-10024",
+    "building_id": "BLD-7024",
+    "address": "Plot 165, Sector 3, Demo Town",
+    "lat": 14.03279,
+    "lng": 100.515941,
+    "construction_type": "steel",
+    "year_built": 1985,
+    "storeys": 5,
+    "insured_value": 31990000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6398000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 639800.0
+  },
+  {
+    "policy_id": "POL-10025",
+    "building_id": "BLD-7025",
+    "address": "Plot 399, Sector 5, Demo Town",
+    "lat": 14.025703,
+    "lng": 100.462211,
+    "construction_type": "rcc",
+    "year_built": 1964,
+    "storeys": 4,
+    "insured_value": 14790000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2958000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 295800.0
+  },
+  {
+    "policy_id": "POL-10026",
+    "building_id": "BLD-7026",
+    "address": "Plot 92, Sector 23, Demo Town",
+    "lat": 13.970144,
+    "lng": 100.512697,
+    "construction_type": "masonry",
+    "year_built": 2010,
+    "storeys": 5,
+    "insured_value": 24810000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4962000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 496200.0
+  },
+  {
+    "policy_id": "POL-10027",
+    "building_id": "BLD-7027",
+    "address": "Plot 45, Sector 14, Demo Town",
+    "lat": 14.027918,
+    "lng": 100.482994,
+    "construction_type": "mixed",
+    "year_built": 1999,
+    "storeys": 2,
+    "insured_value": 45500000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9100000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 910000.0
+  },
+  {
+    "policy_id": "POL-10028",
+    "building_id": "BLD-7028",
+    "address": "Plot 292, Sector 21, Demo Town",
+    "lat": 14.039425,
+    "lng": 100.50668,
+    "construction_type": "steel",
+    "year_built": 1993,
+    "storeys": 4,
+    "insured_value": 20090000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4018000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 401800.0
+  },
+  {
+    "policy_id": "POL-10029",
+    "building_id": "BLD-7029",
+    "address": "Plot 329, Sector 30, Demo Town",
+    "lat": 14.021094,
+    "lng": 100.46374,
+    "construction_type": "rcc",
+    "year_built": 1977,
+    "storeys": 2,
+    "insured_value": 41280000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8256000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 825600.0
+  },
+  {
+    "policy_id": "POL-10030",
+    "building_id": "BLD-7030",
+    "address": "Plot 179, Sector 17, Demo Town",
+    "lat": 14.039428,
+    "lng": 100.47553,
+    "construction_type": "masonry",
+    "year_built": 2006,
+    "storeys": 3,
+    "insured_value": 43080000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8616000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 861600.0
+  },
+  {
+    "policy_id": "POL-10031",
+    "building_id": "BLD-7031",
+    "address": "Plot 33, Sector 14, Demo Town",
+    "lat": 13.932149,
+    "lng": 100.492002,
+    "construction_type": "rcc",
+    "year_built": 1972,
+    "storeys": 5,
+    "insured_value": 40840000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8168000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 816800.0
+  },
+  {
+    "policy_id": "POL-10032",
+    "building_id": "BLD-7032",
+    "address": "Plot 371, Sector 17, Demo Town",
+    "lat": 13.995255,
+    "lng": 100.555587,
+    "construction_type": "steel",
+    "year_built": 2006,
+    "storeys": 4,
+    "insured_value": 49990000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9998000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 999800.0
+  },
+  {
+    "policy_id": "POL-10033",
+    "building_id": "BLD-7033",
+    "address": "Plot 287, Sector 9, Demo Town",
+    "lat": 13.951551,
+    "lng": 100.502993,
+    "construction_type": "wood",
+    "year_built": 1998,
+    "storeys": 5,
+    "insured_value": 26680000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5336000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 533600.0
+  },
+  {
+    "policy_id": "POL-10034",
+    "building_id": "BLD-7034",
+    "address": "Plot 255, Sector 7, Demo Town",
+    "lat": 14.005838,
+    "lng": 100.440621,
+    "construction_type": "rcc",
+    "year_built": 1964,
+    "storeys": 5,
+    "insured_value": 15100000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3020000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 302000.0
+  },
+  {
+    "policy_id": "POL-10035",
+    "building_id": "BLD-7035",
+    "address": "Plot 252, Sector 3, Demo Town",
+    "lat": 14.042427,
+    "lng": 100.479114,
+    "construction_type": "rcc",
+    "year_built": 1958,
+    "storeys": 5,
+    "insured_value": 29020000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5804000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 580400.0
+  },
+  {
+    "policy_id": "POL-10036",
+    "building_id": "BLD-7036",
+    "address": "Plot 244, Sector 17, Demo Town",
+    "lat": 13.946215,
+    "lng": 100.489882,
+    "construction_type": "wood",
+    "year_built": 1974,
+    "storeys": 4,
+    "insured_value": 22820000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4564000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 456400.0
+  },
+  {
+    "policy_id": "POL-10037",
+    "building_id": "BLD-7037",
+    "address": "Plot 100, Sector 5, Demo Town",
+    "lat": 14.039318,
+    "lng": 100.438887,
+    "construction_type": "masonry",
+    "year_built": 1986,
+    "storeys": 3,
+    "insured_value": 3090000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 618000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 61800.0
+  },
+  {
+    "policy_id": "POL-10038",
+    "building_id": "BLD-7038",
+    "address": "Plot 360, Sector 17, Demo Town",
+    "lat": 14.017087,
+    "lng": 100.546078,
+    "construction_type": "steel",
+    "year_built": 1952,
+    "storeys": 4,
+    "insured_value": 36450000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7290000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 729000.0
+  },
+  {
+    "policy_id": "POL-10039",
+    "building_id": "BLD-7039",
+    "address": "Plot 93, Sector 11, Demo Town",
+    "lat": 14.017709,
+    "lng": 100.555411,
+    "construction_type": "rcc",
+    "year_built": 1974,
+    "storeys": 2,
+    "insured_value": 18680000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3736000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 373600.0
+  },
+  {
+    "policy_id": "POL-10040",
+    "building_id": "BLD-7040",
+    "address": "Plot 133, Sector 13, Demo Town",
+    "lat": 13.962255,
+    "lng": 100.439551,
+    "construction_type": "masonry",
+    "year_built": 2003,
+    "storeys": 5,
+    "insured_value": 36880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7376000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 737600.0
+  },
+  {
+    "policy_id": "POL-10041",
+    "building_id": "BLD-7041",
+    "address": "Plot 345, Sector 4, Demo Town",
+    "lat": 13.950648,
+    "lng": 100.445272,
+    "construction_type": "rcc",
+    "year_built": 1967,
+    "storeys": 6,
+    "insured_value": 15590000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 3118000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 311800.0
+  },
+  {
+    "policy_id": "POL-10042",
+    "building_id": "BLD-7042",
+    "address": "Plot 182, Sector 14, Demo Town",
+    "lat": 13.983883,
+    "lng": 100.434028,
+    "construction_type": "masonry",
+    "year_built": 1997,
+    "storeys": 1,
+    "insured_value": 22470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4494000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 449400.0
+  },
+  {
+    "policy_id": "POL-10043",
+    "building_id": "BLD-7043",
+    "address": "Plot 208, Sector 30, Demo Town",
+    "lat": 13.992884,
+    "lng": 100.446574,
+    "construction_type": "masonry",
+    "year_built": 1971,
+    "storeys": 1,
+    "insured_value": 37490000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7498000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 749800.0
+  },
+  {
+    "policy_id": "POL-10044",
+    "building_id": "BLD-7044",
+    "address": "Plot 391, Sector 9, Demo Town",
+    "lat": 14.011533,
+    "lng": 100.44801,
+    "construction_type": "masonry",
+    "year_built": 1964,
+    "storeys": 6,
+    "insured_value": 18370000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3674000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 367400.0
+  },
+  {
+    "policy_id": "POL-10045",
+    "building_id": "BLD-7045",
+    "address": "Plot 356, Sector 12, Demo Town",
+    "lat": 14.056053,
+    "lng": 100.479863,
+    "construction_type": "rcc",
+    "year_built": 1973,
+    "storeys": 4,
+    "insured_value": 44230000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8846000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 884600.0
+  },
+  {
+    "policy_id": "POL-10046",
+    "building_id": "BLD-7046",
+    "address": "Plot 6, Sector 29, Demo Town",
+    "lat": 13.976866,
+    "lng": 100.430147,
+    "construction_type": "wood",
+    "year_built": 1956,
+    "storeys": 2,
+    "insured_value": 24500000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4900000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 490000.0
+  },
+  {
+    "policy_id": "POL-10047",
+    "building_id": "BLD-7047",
+    "address": "Plot 193, Sector 1, Demo Town",
+    "lat": 13.935295,
+    "lng": 100.479258,
+    "construction_type": "masonry",
+    "year_built": 1982,
+    "storeys": 3,
+    "insured_value": 11380000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2276000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 227600.0
+  },
+  {
+    "policy_id": "POL-10048",
+    "building_id": "BLD-7048",
+    "address": "Plot 52, Sector 21, Demo Town",
+    "lat": 14.066129,
+    "lng": 100.495024,
+    "construction_type": "rcc",
+    "year_built": 1959,
+    "storeys": 5,
+    "insured_value": 29260000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5852000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 585200.0
+  },
+  {
+    "policy_id": "POL-10049",
+    "building_id": "BLD-7049",
+    "address": "Plot 254, Sector 18, Demo Town",
+    "lat": 13.967216,
+    "lng": 100.620267,
+    "construction_type": "rcc",
+    "year_built": 1957,
+    "storeys": 4,
+    "insured_value": 48560000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9712000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 971200.0
+  },
+  {
+    "policy_id": "POL-10050",
+    "building_id": "BLD-7050",
+    "address": "Plot 146, Sector 22, Demo Town",
+    "lat": 14.043285,
+    "lng": 100.432119,
+    "construction_type": "rcc",
+    "year_built": 1987,
+    "storeys": 1,
+    "insured_value": 28910000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5782000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 578200.0
+  },
+  {
+    "policy_id": "POL-10051",
+    "building_id": "BLD-7051",
+    "address": "Plot 204, Sector 2, Demo Town",
+    "lat": 13.873091,
+    "lng": 100.546986,
+    "construction_type": "rcc",
+    "year_built": 1990,
+    "storeys": 1,
+    "insured_value": 17130000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3426000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 342600.0
+  },
+  {
+    "policy_id": "POL-10052",
+    "building_id": "BLD-7052",
+    "address": "Plot 268, Sector 4, Demo Town",
+    "lat": 14.133157,
+    "lng": 100.487411,
+    "construction_type": "mixed",
+    "year_built": 2009,
+    "storeys": 2,
+    "insured_value": 13700000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2740000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 274000.0
+  },
+  {
+    "policy_id": "POL-10053",
+    "building_id": "BLD-7053",
+    "address": "Plot 105, Sector 28, Demo Town",
+    "lat": 14.034564,
+    "lng": 100.382936,
+    "construction_type": "masonry",
+    "year_built": 2017,
+    "storeys": 2,
+    "insured_value": 23870000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4774000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 477400.0
+  },
+  {
+    "policy_id": "POL-10054",
+    "building_id": "BLD-7054",
+    "address": "Plot 328, Sector 19, Demo Town",
+    "lat": 13.975996,
+    "lng": 100.390051,
+    "construction_type": "rcc",
+    "year_built": 1996,
+    "storeys": 6,
+    "insured_value": 30850000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6170000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 617000.0
+  },
+  {
+    "policy_id": "POL-10055",
+    "building_id": "BLD-7055",
+    "address": "Plot 159, Sector 26, Demo Town",
+    "lat": 13.92554,
+    "lng": 100.561383,
+    "construction_type": "rcc",
+    "year_built": 1995,
+    "storeys": 3,
+    "insured_value": 7470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1494000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 149400.0
+  },
+  {
+    "policy_id": "POL-10056",
+    "building_id": "BLD-7056",
+    "address": "Plot 143, Sector 25, Demo Town",
+    "lat": 14.055698,
+    "lng": 100.558729,
+    "construction_type": "masonry",
+    "year_built": 1981,
+    "storeys": 5,
+    "insured_value": 11120000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2224000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 222400.0
+  },
+  {
+    "policy_id": "POL-10057",
+    "building_id": "BLD-7057",
+    "address": "Plot 347, Sector 6, Demo Town",
+    "lat": 13.878658,
+    "lng": 100.505867,
+    "construction_type": "rcc",
+    "year_built": 1997,
+    "storeys": 4,
+    "insured_value": 6150000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1230000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 123000.0
+  },
+  {
+    "policy_id": "POL-10058",
+    "building_id": "BLD-7058",
+    "address": "Plot 320, Sector 27, Demo Town",
+    "lat": 14.084862,
+    "lng": 100.600383,
+    "construction_type": "rcc",
+    "year_built": 1977,
+    "storeys": 4,
+    "insured_value": 23470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4694000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 469400.0
+  },
+  {
+    "policy_id": "POL-10059",
+    "building_id": "BLD-7059",
+    "address": "Plot 306, Sector 11, Demo Town",
+    "lat": 13.900752,
+    "lng": 100.462199,
+    "construction_type": "masonry",
+    "year_built": 1973,
+    "storeys": 4,
+    "insured_value": 9370000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1874000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 187400.0
+  },
+  {
+    "policy_id": "POL-10060",
+    "building_id": "BLD-7060",
+    "address": "Plot 159, Sector 7, Demo Town",
+    "lat": 14.090865,
+    "lng": 100.483348,
+    "construction_type": "mixed",
+    "year_built": 1960,
+    "storeys": 6,
+    "insured_value": 2450000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 490000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 49000.0
+  },
+  {
+    "policy_id": "POL-10061",
+    "building_id": "BLD-7061",
+    "address": "Plot 113, Sector 12, Demo Town",
+    "lat": 13.547163,
+    "lng": 101.129365,
+    "construction_type": "rcc",
+    "year_built": 1991,
+    "storeys": 3,
+    "insured_value": 44320000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8864000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 886400.0
+  },
+  {
+    "policy_id": "POL-10062",
+    "building_id": "BLD-7062",
+    "address": "Plot 352, Sector 30, Demo Town",
+    "lat": 13.782725,
+    "lng": 100.662766,
+    "construction_type": "masonry",
+    "year_built": 2017,
+    "storeys": 3,
+    "insured_value": 45310000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9062000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 906200.0
+  },
+  {
+    "policy_id": "POL-10063",
+    "building_id": "BLD-7063",
+    "address": "Plot 145, Sector 26, Demo Town",
+    "lat": 13.927671,
+    "lng": 100.281035,
+    "construction_type": "masonry",
+    "year_built": 2016,
+    "storeys": 1,
+    "insured_value": 44280000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8856000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 885600.0
+  },
+  {
+    "policy_id": "POL-10064",
+    "building_id": "BLD-7064",
+    "address": "Plot 74, Sector 4, Demo Town",
+    "lat": 13.33241,
+    "lng": 101.324171,
+    "construction_type": "rcc",
+    "year_built": 2004,
+    "storeys": 2,
+    "insured_value": 32440000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6488000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 648800.0
+  },
+  {
+    "policy_id": "POL-10065",
+    "building_id": "BLD-7065",
+    "address": "Plot 186, Sector 23, Demo Town",
+    "lat": 13.735557,
+    "lng": 100.696953,
+    "construction_type": "masonry",
+    "year_built": 1964,
+    "storeys": 4,
+    "insured_value": 3170000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 634000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 63400.0
+  },
+  {
+    "policy_id": "POL-10066",
+    "building_id": "BLD-7066",
+    "address": "Plot 271, Sector 10, Demo Town",
+    "lat": 13.540921,
+    "lng": 101.013743,
+    "construction_type": "masonry",
+    "year_built": 1957,
+    "storeys": 4,
+    "insured_value": 20690000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4138000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 413800.0
+  },
+  {
+    "policy_id": "POL-10067",
+    "building_id": "BLD-7067",
+    "address": "Plot 227, Sector 6, Demo Town",
+    "lat": 13.674261,
+    "lng": 100.892401,
+    "construction_type": "mixed",
+    "year_built": 2001,
+    "storeys": 2,
+    "insured_value": 26410000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5282000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 528200.0
+  },
+  {
+    "policy_id": "POL-10068",
+    "building_id": "BLD-7068",
+    "address": "Plot 265, Sector 25, Demo Town",
+    "lat": 13.962395,
+    "lng": 100.219961,
+    "construction_type": "masonry",
+    "year_built": 1957,
+    "storeys": 6,
+    "insured_value": 48850000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9770000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 977000.0
+  },
+  {
+    "policy_id": "POL-10069",
+    "building_id": "BLD-7069",
+    "address": "Plot 226, Sector 7, Demo Town",
+    "lat": 13.85994,
+    "lng": 100.304826,
+    "construction_type": "masonry",
+    "year_built": 2002,
+    "storeys": 5,
+    "insured_value": 39510000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7902000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 790200.0
+  },
+  {
+    "policy_id": "POL-10070",
+    "building_id": "BLD-7070",
+    "address": "Plot 55, Sector 22, Demo Town",
+    "lat": 13.575203,
+    "lng": 101.058613,
+    "construction_type": "wood",
+    "year_built": 2009,
+    "storeys": 6,
+    "insured_value": 34980000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6996000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 699600.0
+  },
+  {
+    "policy_id": "POL-10071",
+    "building_id": "BLD-7071",
+    "address": "Plot 173, Sector 25, Demo Town",
+    "lat": 13.734167,
+    "lng": 100.568929,
+    "construction_type": "wood",
+    "year_built": 1961,
+    "storeys": 3,
+    "insured_value": 16310000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3262000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 326200.0
+  },
+  {
+    "policy_id": "POL-10072",
+    "building_id": "BLD-7072",
+    "address": "Plot 289, Sector 16, Demo Town",
+    "lat": 13.548442,
+    "lng": 101.082145,
+    "construction_type": "rcc",
+    "year_built": 1992,
+    "storeys": 4,
+    "insured_value": 47360000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9472000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 947200.0
+  },
+  {
+    "policy_id": "POL-10073",
+    "building_id": "BLD-7073",
+    "address": "Plot 238, Sector 19, Demo Town",
+    "lat": 13.340017,
+    "lng": 101.099529,
+    "construction_type": "rcc",
+    "year_built": 1962,
+    "storeys": 2,
+    "insured_value": 21310000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4262000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 426200.0
+  },
+  {
+    "policy_id": "POL-10074",
+    "building_id": "BLD-7074",
+    "address": "Plot 53, Sector 20, Demo Town",
+    "lat": 13.709559,
+    "lng": 100.541415,
+    "construction_type": "rcc",
+    "year_built": 1982,
+    "storeys": 5,
+    "insured_value": 39850000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7970000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 797000.0
+  },
+  {
+    "policy_id": "POL-10075",
+    "building_id": "BLD-7075",
+    "address": "Plot 366, Sector 7, Demo Town",
+    "lat": 13.699525,
+    "lng": 100.499133,
+    "construction_type": "mixed",
+    "year_built": 2016,
+    "storeys": 6,
+    "insured_value": 8800000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1760000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 176000.0
+  },
+  {
+    "policy_id": "POL-10076",
+    "building_id": "BLD-7076",
+    "address": "Plot 374, Sector 5, Demo Town",
+    "lat": 14.128595,
+    "lng": 100.353319,
+    "construction_type": "masonry",
+    "year_built": 2022,
+    "storeys": 5,
+    "insured_value": 23710000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4742000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 474200.0
+  },
+  {
+    "policy_id": "POL-10077",
+    "building_id": "BLD-7077",
+    "address": "Plot 96, Sector 20, Demo Town",
+    "lat": 13.781588,
+    "lng": 100.310608,
+    "construction_type": "rcc",
+    "year_built": 1959,
+    "storeys": 4,
+    "insured_value": 41880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8376000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 837600.0
+  },
+  {
+    "policy_id": "POL-10078",
+    "building_id": "BLD-7078",
+    "address": "Plot 17, Sector 5, Demo Town",
+    "lat": 13.316105,
+    "lng": 101.19242,
+    "construction_type": "rcc",
+    "year_built": 1965,
+    "storeys": 5,
+    "insured_value": 21780000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4356000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 435600.0
+  },
+  {
+    "policy_id": "POL-10079",
+    "building_id": "BLD-7079",
+    "address": "Plot 354, Sector 14, Demo Town",
+    "lat": 13.683121,
+    "lng": 101.172824,
+    "construction_type": "steel",
+    "year_built": 1965,
+    "storeys": 5,
+    "insured_value": 49740000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9948000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 994800.0
+  },
+  {
+    "policy_id": "POL-10080",
+    "building_id": "BLD-7080",
+    "address": "Plot 372, Sector 20, Demo Town",
+    "lat": 13.497954,
+    "lng": 101.430328,
+    "construction_type": "mixed",
+    "year_built": 1998,
+    "storeys": 5,
+    "insured_value": 4620000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 924000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 92400.0
+  },
+  {
+    "policy_id": "POL-10081",
+    "building_id": "BLD-7081",
+    "address": "Plot 64, Sector 29, Demo Town",
+    "lat": 13.248827,
+    "lng": 101.428861,
+    "construction_type": "rcc",
+    "year_built": 2008,
+    "storeys": 1,
+    "insured_value": 40030000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8006000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 800600.0
+  },
+  {
+    "policy_id": "POL-10082",
+    "building_id": "BLD-7082",
+    "address": "Plot 256, Sector 5, Demo Town",
+    "lat": 14.146011,
+    "lng": 99.956627,
+    "construction_type": "mixed",
+    "year_built": 2010,
+    "storeys": 2,
+    "insured_value": 16780000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3356000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 335600.0
+  },
+  {
+    "policy_id": "POL-10083",
+    "building_id": "BLD-7083",
+    "address": "Plot 89, Sector 21, Demo Town",
+    "lat": 13.535485,
+    "lng": 101.318315,
+    "construction_type": "steel",
+    "year_built": 2021,
+    "storeys": 2,
+    "insured_value": 24680000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4936000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 493600.0
+  },
+  {
+    "policy_id": "POL-10084",
+    "building_id": "BLD-7084",
+    "address": "Plot 372, Sector 27, Demo Town",
+    "lat": 13.194363,
+    "lng": 101.389628,
+    "construction_type": "wood",
+    "year_built": 1985,
+    "storeys": 4,
+    "insured_value": 7090000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1418000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 141800.0
+  },
+  {
+    "policy_id": "POL-10085",
+    "building_id": "BLD-7085",
+    "address": "Plot 271, Sector 3, Demo Town",
+    "lat": 13.65725,
+    "lng": 101.031193,
+    "construction_type": "rcc",
+    "year_built": 1955,
+    "storeys": 1,
+    "insured_value": 5660000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1132000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 113200.0
+  },
+  {
+    "policy_id": "POL-10086",
+    "building_id": "BLD-7086",
+    "address": "Plot 376, Sector 18, Demo Town",
+    "lat": 13.350841,
+    "lng": 101.572208,
+    "construction_type": "masonry",
+    "year_built": 1969,
+    "storeys": 1,
+    "insured_value": 10610000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2122000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 212200.0
+  },
+  {
+    "policy_id": "POL-10087",
+    "building_id": "BLD-7087",
+    "address": "Plot 17, Sector 17, Demo Town",
+    "lat": 13.49808,
+    "lng": 101.439448,
+    "construction_type": "masonry",
+    "year_built": 2016,
+    "storeys": 6,
+    "insured_value": 25210000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5042000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 504200.0
+  },
+  {
+    "policy_id": "POL-10088",
+    "building_id": "BLD-7088",
+    "address": "Plot 343, Sector 15, Demo Town",
+    "lat": 13.264021,
+    "lng": 101.205766,
+    "construction_type": "rcc",
+    "year_built": 1982,
+    "storeys": 6,
+    "insured_value": 22910000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4582000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 458200.0
+  },
+  {
+    "policy_id": "POL-10089",
+    "building_id": "BLD-7089",
+    "address": "Plot 92, Sector 19, Demo Town",
+    "lat": 13.172975,
+    "lng": 101.349969,
+    "construction_type": "rcc",
+    "year_built": 1980,
+    "storeys": 5,
+    "insured_value": 7490000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1498000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 149800.0
+  },
+  {
+    "policy_id": "POL-10090",
+    "building_id": "BLD-7090",
+    "address": "Plot 379, Sector 17, Demo Town",
+    "lat": 13.918487,
+    "lng": 100.622003,
+    "construction_type": "rcc",
+    "year_built": 2013,
+    "storeys": 1,
+    "insured_value": 41340000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8268000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 826800.0
+  },
+  {
+    "policy_id": "POL-10091",
+    "building_id": "BLD-7091",
+    "address": "Plot 306, Sector 26, Demo Town",
+    "lat": 13.694305,
+    "lng": 100.220483,
+    "construction_type": "rcc",
+    "year_built": 1990,
+    "storeys": 4,
+    "insured_value": 33630000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6726000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 672600.0
+  },
+  {
+    "policy_id": "POL-10092",
+    "building_id": "BLD-7092",
+    "address": "Plot 251, Sector 25, Demo Town",
+    "lat": 14.413985,
+    "lng": 100.153893,
+    "construction_type": "rcc",
+    "year_built": 1967,
+    "storeys": 2,
+    "insured_value": 4020000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 804000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 80400.0
+  },
+  {
+    "policy_id": "POL-10093",
+    "building_id": "BLD-7093",
+    "address": "Plot 117, Sector 12, Demo Town",
+    "lat": 13.574986,
+    "lng": 101.492251,
+    "construction_type": "wood",
+    "year_built": 1977,
+    "storeys": 1,
+    "insured_value": 6130000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1226000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 122600.0
+  },
+  {
+    "policy_id": "POL-10094",
+    "building_id": "BLD-7094",
+    "address": "Plot 110, Sector 13, Demo Town",
+    "lat": 13.642227,
+    "lng": 101.557202,
+    "construction_type": "wood",
+    "year_built": 1956,
+    "storeys": 2,
+    "insured_value": 20860000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4172000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 417200.0
+  },
+  {
+    "policy_id": "POL-10095",
+    "building_id": "BLD-7095",
+    "address": "Plot 105, Sector 13, Demo Town",
+    "lat": 13.774345,
+    "lng": 100.08533,
+    "construction_type": "masonry",
+    "year_built": 2009,
+    "storeys": 3,
+    "insured_value": 9870000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1974000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 197400.0
+  },
+  {
+    "policy_id": "POL-10096",
+    "building_id": "BLD-7096",
+    "address": "Plot 371, Sector 27, Demo Town",
+    "lat": 13.485947,
+    "lng": 101.662463,
+    "construction_type": "mixed",
+    "year_built": 1952,
+    "storeys": 3,
+    "insured_value": 38750000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7750000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 775000.0
+  },
+  {
+    "policy_id": "POL-10097",
+    "building_id": "BLD-7097",
+    "address": "Plot 266, Sector 22, Demo Town",
+    "lat": 13.518818,
+    "lng": 101.49055,
+    "construction_type": "masonry",
+    "year_built": 2000,
+    "storeys": 5,
+    "insured_value": 14300000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2860000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 286000.0
+  },
+  {
+    "policy_id": "POL-10098",
+    "building_id": "BLD-7098",
+    "address": "Plot 107, Sector 10, Demo Town",
+    "lat": 13.720176,
+    "lng": 100.093955,
+    "construction_type": "rcc",
+    "year_built": 2011,
+    "storeys": 5,
+    "insured_value": 8130000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1626000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 162600.0
+  },
+  {
+    "policy_id": "POL-10099",
+    "building_id": "BLD-7099",
+    "address": "Plot 274, Sector 23, Demo Town",
+    "lat": 14.276605,
+    "lng": 100.490354,
+    "construction_type": "rcc",
+    "year_built": 1967,
+    "storeys": 4,
+    "insured_value": 42060000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8412000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 841200.0
+  },
+  {
+    "policy_id": "POL-10100",
+    "building_id": "BLD-7100",
+    "address": "Plot 284, Sector 10, Demo Town",
+    "lat": 13.824617,
+    "lng": 100.016599,
+    "construction_type": "rcc",
+    "year_built": 1952,
+    "storeys": 4,
+    "insured_value": 35670000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7134000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 713400.0
+  },
+  {
+    "policy_id": "POL-10101",
+    "building_id": "BLD-7101",
+    "address": "Plot 135, Sector 27, Demo Town",
+    "lat": 14.294297,
+    "lng": 100.427717,
+    "construction_type": "rcc",
+    "year_built": 1973,
+    "storeys": 6,
+    "insured_value": 29150000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5830000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 583000.0
+  },
+  {
+    "policy_id": "POL-10102",
+    "building_id": "BLD-7102",
+    "address": "Plot 363, Sector 7, Demo Town",
+    "lat": 14.303315,
+    "lng": 100.415889,
+    "construction_type": "rcc",
+    "year_built": 1956,
+    "storeys": 5,
+    "insured_value": 3490000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 698000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 69800.0
+  },
+  {
+    "policy_id": "POL-10103",
+    "building_id": "BLD-7103",
+    "address": "Plot 202, Sector 1, Demo Town",
+    "lat": 13.730349,
+    "lng": 100.161663,
+    "construction_type": "masonry",
+    "year_built": 2013,
+    "storeys": 6,
+    "insured_value": 46470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9294000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 929400.0
+  },
+  {
+    "policy_id": "POL-10104",
+    "building_id": "BLD-7104",
+    "address": "Plot 128, Sector 12, Demo Town",
+    "lat": 13.750697,
+    "lng": 101.269416,
+    "construction_type": "wood",
+    "year_built": 1972,
+    "storeys": 5,
+    "insured_value": 13380000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2676000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 267600.0
+  },
+  {
+    "policy_id": "POL-10105",
+    "building_id": "BLD-7105",
+    "address": "Plot 348, Sector 16, Demo Town",
+    "lat": 14.229257,
+    "lng": 100.350406,
+    "construction_type": "masonry",
+    "year_built": 2002,
+    "storeys": 4,
+    "insured_value": 26590000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5318000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 531800.0
+  },
+  {
+    "policy_id": "POL-10106",
+    "building_id": "BLD-7106",
+    "address": "Plot 130, Sector 23, Demo Town",
+    "lat": 14.062901,
+    "lng": 100.533064,
+    "construction_type": "rcc",
+    "year_built": 1997,
+    "storeys": 6,
+    "insured_value": 35300000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7060000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 706000.0
+  },
+  {
+    "policy_id": "POL-10107",
+    "building_id": "BLD-7107",
+    "address": "Plot 65, Sector 20, Demo Town",
+    "lat": 14.433532,
+    "lng": 99.971728,
+    "construction_type": "rcc",
+    "year_built": 1984,
+    "storeys": 2,
+    "insured_value": 32780000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6556000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 655600.0
+  },
+  {
+    "policy_id": "POL-10108",
+    "building_id": "BLD-7108",
+    "address": "Plot 209, Sector 25, Demo Town",
+    "lat": 13.27921,
+    "lng": 101.061294,
+    "construction_type": "masonry",
+    "year_built": 1999,
+    "storeys": 6,
+    "insured_value": 36650000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7330000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 733000.0
+  },
+  {
+    "policy_id": "POL-10109",
+    "building_id": "BLD-7109",
+    "address": "Plot 250, Sector 14, Demo Town",
+    "lat": 14.418471,
+    "lng": 99.870128,
+    "construction_type": "masonry",
+    "year_built": 1991,
+    "storeys": 1,
+    "insured_value": 14070000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2814000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 281400.0
+  },
+  {
+    "policy_id": "POL-10110",
+    "building_id": "BLD-7110",
+    "address": "Plot 319, Sector 9, Demo Town",
+    "lat": 13.782946,
+    "lng": 99.759586,
+    "construction_type": "masonry",
+    "year_built": 1987,
+    "storeys": 2,
+    "insured_value": 33530000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6706000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 670600.0
+  },
+  {
+    "policy_id": "POL-10111",
+    "building_id": "BLD-7111",
+    "address": "Plot 210, Sector 9, Demo Town",
+    "lat": 13.669329,
+    "lng": 101.72248,
+    "construction_type": "mixed",
+    "year_built": 1953,
+    "storeys": 1,
+    "insured_value": 42320000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8464000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 846400.0
+  },
+  {
+    "policy_id": "POL-10112",
+    "building_id": "BLD-7112",
+    "address": "Plot 92, Sector 27, Demo Town",
+    "lat": 13.546757,
+    "lng": 100.121527,
+    "construction_type": "masonry",
+    "year_built": 1999,
+    "storeys": 3,
+    "insured_value": 35890000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7178000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 717800.0
+  },
+  {
+    "policy_id": "POL-10113",
+    "building_id": "BLD-7113",
+    "address": "Plot 382, Sector 15, Demo Town",
+    "lat": 13.07087,
+    "lng": 101.697175,
+    "construction_type": "rcc",
+    "year_built": 2009,
+    "storeys": 4,
+    "insured_value": 37460000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7492000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 749200.0
+  },
+  {
+    "policy_id": "POL-10114",
+    "building_id": "BLD-7114",
+    "address": "Plot 113, Sector 27, Demo Town",
+    "lat": 14.410684,
+    "lng": 100.376511,
+    "construction_type": "masonry",
+    "year_built": 2003,
+    "storeys": 2,
+    "insured_value": 47850000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9570000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 957000.0
+  },
+  {
+    "policy_id": "POL-10115",
+    "building_id": "BLD-7115",
+    "address": "Plot 287, Sector 22, Demo Town",
+    "lat": 14.457435,
+    "lng": 100.337758,
+    "construction_type": "mixed",
+    "year_built": 1998,
+    "storeys": 1,
+    "insured_value": 48570000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9714000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 971400.0
+  },
+  {
+    "policy_id": "POL-10116",
+    "building_id": "BLD-7116",
+    "address": "Plot 357, Sector 20, Demo Town",
+    "lat": 12.87536,
+    "lng": 101.406293,
+    "construction_type": "rcc",
+    "year_built": 1982,
+    "storeys": 6,
+    "insured_value": 48000000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9600000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 960000.0
+  },
+  {
+    "policy_id": "POL-10117",
+    "building_id": "BLD-7117",
+    "address": "Plot 188, Sector 27, Demo Town",
+    "lat": 13.647062,
+    "lng": 99.898216,
+    "construction_type": "mixed",
+    "year_built": 1953,
+    "storeys": 1,
+    "insured_value": 2760000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 552000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 55200.0
+  },
+  {
+    "policy_id": "POL-10118",
+    "building_id": "BLD-7118",
+    "address": "Plot 71, Sector 19, Demo Town",
+    "lat": 14.517493,
+    "lng": 100.085863,
+    "construction_type": "mixed",
+    "year_built": 1962,
+    "storeys": 4,
+    "insured_value": 28880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5776000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 577600.0
+  },
+  {
+    "policy_id": "POL-10119",
+    "building_id": "BLD-7119",
+    "address": "Plot 166, Sector 13, Demo Town",
+    "lat": 13.140276,
+    "lng": 100.817444,
+    "construction_type": "steel",
+    "year_built": 1962,
+    "storeys": 6,
+    "insured_value": 20340000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4068000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 406800.0
+  },
+  {
+    "policy_id": "POL-10120",
+    "building_id": "BLD-7120",
+    "address": "Plot 183, Sector 8, Demo Town",
+    "lat": 13.043483,
+    "lng": 100.956421,
+    "construction_type": "wood",
+    "year_built": 1997,
+    "storeys": 3,
+    "insured_value": 35000000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7000000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 700000.0
+  },
+  {
+    "policy_id": "POL-10121",
+    "building_id": "BLD-7121",
+    "address": "Plot 48, Sector 7, Demo Town",
+    "lat": 14.2369,
+    "lng": 100.791603,
+    "construction_type": "masonry",
+    "year_built": 1984,
+    "storeys": 4,
+    "insured_value": 4550000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 910000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 91000.0
+  },
+  {
+    "policy_id": "POL-10122",
+    "building_id": "BLD-7122",
+    "address": "Plot 25, Sector 13, Demo Town",
+    "lat": 12.759655,
+    "lng": 101.131302,
+    "construction_type": "rcc",
+    "year_built": 2020,
+    "storeys": 2,
+    "insured_value": 38650000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7730000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 773000.0
+  },
+  {
+    "policy_id": "POL-10123",
+    "building_id": "BLD-7123",
+    "address": "Plot 281, Sector 23, Demo Town",
+    "lat": 14.406945,
+    "lng": 99.712985,
+    "construction_type": "masonry",
+    "year_built": 1965,
+    "storeys": 4,
+    "insured_value": 33980000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6796000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 679600.0
+  },
+  {
+    "policy_id": "POL-10124",
+    "building_id": "BLD-7124",
+    "address": "Plot 50, Sector 14, Demo Town",
+    "lat": 12.880745,
+    "lng": 101.159594,
+    "construction_type": "wood",
+    "year_built": 1967,
+    "storeys": 1,
+    "insured_value": 43660000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8732000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 873200.0
+  },
+  {
+    "policy_id": "POL-10125",
+    "building_id": "BLD-7125",
+    "address": "Plot 86, Sector 25, Demo Town",
+    "lat": 12.862408,
+    "lng": 101.498584,
+    "construction_type": "rcc",
+    "year_built": 1975,
+    "storeys": 1,
+    "insured_value": 37630000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7526000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 752600.0
+  },
+  {
+    "policy_id": "POL-10126",
+    "building_id": "BLD-7126",
+    "address": "Plot 93, Sector 14, Demo Town",
+    "lat": 14.563889,
+    "lng": 99.975648,
+    "construction_type": "mixed",
+    "year_built": 2008,
+    "storeys": 4,
+    "insured_value": 5130000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1026000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 102600.0
+  },
+  {
+    "policy_id": "POL-10127",
+    "building_id": "BLD-7127",
+    "address": "Plot 337, Sector 24, Demo Town",
+    "lat": 13.804831,
+    "lng": 99.603861,
+    "construction_type": "masonry",
+    "year_built": 1950,
+    "storeys": 1,
+    "insured_value": 29590000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5918000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 591800.0
+  },
+  {
+    "policy_id": "POL-10128",
+    "building_id": "BLD-7128",
+    "address": "Plot 102, Sector 29, Demo Town",
+    "lat": 14.1115,
+    "lng": 99.632699,
+    "construction_type": "rcc",
+    "year_built": 2003,
+    "storeys": 2,
+    "insured_value": 31400000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6280000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 628000.0
+  },
+  {
+    "policy_id": "POL-10129",
+    "building_id": "BLD-7129",
+    "address": "Plot 288, Sector 3, Demo Town",
+    "lat": 12.702017,
+    "lng": 101.269299,
+    "construction_type": "masonry",
+    "year_built": 1988,
+    "storeys": 3,
+    "insured_value": 47120000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9424000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 942400.0
+  },
+  {
+    "policy_id": "POL-10130",
+    "building_id": "BLD-7130",
+    "address": "Plot 11, Sector 20, Demo Town",
+    "lat": 12.96733,
+    "lng": 101.751611,
+    "construction_type": "rcc",
+    "year_built": 1990,
+    "storeys": 2,
+    "insured_value": 22530000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4506000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 450600.0
+  },
+  {
+    "policy_id": "POL-10131",
+    "building_id": "BLD-7131",
+    "address": "Plot 153, Sector 28, Demo Town",
+    "lat": 14.574488,
+    "lng": 99.824176,
+    "construction_type": "wood",
+    "year_built": 1953,
+    "storeys": 4,
+    "insured_value": 7240000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1448000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 144800.0
+  },
+  {
+    "policy_id": "POL-10132",
+    "building_id": "BLD-7132",
+    "address": "Plot 191, Sector 3, Demo Town",
+    "lat": 14.061143,
+    "lng": 101.46647,
+    "construction_type": "mixed",
+    "year_built": 1977,
+    "storeys": 4,
+    "insured_value": 5990000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1198000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 119800.0
+  },
+  {
+    "policy_id": "POL-10133",
+    "building_id": "BLD-7133",
+    "address": "Plot 122, Sector 22, Demo Town",
+    "lat": 14.300219,
+    "lng": 100.691393,
+    "construction_type": "rcc",
+    "year_built": 1983,
+    "storeys": 5,
+    "insured_value": 17980000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 3596000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 359600.0
+  },
+  {
+    "policy_id": "POL-10134",
+    "building_id": "BLD-7134",
+    "address": "Plot 343, Sector 12, Demo Town",
+    "lat": 13.820115,
+    "lng": 99.521849,
+    "construction_type": "masonry",
+    "year_built": 1959,
+    "storeys": 4,
+    "insured_value": 8630000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1726000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 172600.0
+  },
+  {
+    "policy_id": "POL-10135",
+    "building_id": "BLD-7135",
+    "address": "Plot 380, Sector 3, Demo Town",
+    "lat": 14.560996,
+    "lng": 99.958355,
+    "construction_type": "rcc",
+    "year_built": 1951,
+    "storeys": 1,
+    "insured_value": 28990000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5798000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 579800.0
+  },
+  {
+    "policy_id": "POL-10136",
+    "building_id": "BLD-7136",
+    "address": "Plot 35, Sector 7, Demo Town",
+    "lat": 13.539798,
+    "lng": 101.971788,
+    "construction_type": "masonry",
+    "year_built": 2013,
+    "storeys": 2,
+    "insured_value": 9610000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 1922000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 192200.0
+  },
+  {
+    "policy_id": "POL-10137",
+    "building_id": "BLD-7137",
+    "address": "Plot 22, Sector 7, Demo Town",
+    "lat": 12.939832,
+    "lng": 101.908512,
+    "construction_type": "masonry",
+    "year_built": 1980,
+    "storeys": 6,
+    "insured_value": 36300000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7260000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 726000.0
+  },
+  {
+    "policy_id": "POL-10138",
+    "building_id": "BLD-7138",
+    "address": "Plot 176, Sector 1, Demo Town",
+    "lat": 12.773223,
+    "lng": 101.050272,
+    "construction_type": "masonry",
+    "year_built": 1955,
+    "storeys": 3,
+    "insured_value": 3180000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 636000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 63600.0
+  },
+  {
+    "policy_id": "POL-10139",
+    "building_id": "BLD-7139",
+    "address": "Plot 207, Sector 6, Demo Town",
+    "lat": 13.303848,
+    "lng": 101.916877,
+    "construction_type": "rcc",
+    "year_built": 1993,
+    "storeys": 3,
+    "insured_value": 28640000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5728000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 572800.0
+  },
+  {
+    "policy_id": "POL-10140",
+    "building_id": "BLD-7140",
+    "address": "Plot 255, Sector 19, Demo Town",
+    "lat": 14.04397,
+    "lng": 101.24809,
+    "construction_type": "steel",
+    "year_built": 2022,
+    "storeys": 4,
+    "insured_value": 21240000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4248000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 424800.0
+  },
+  {
+    "policy_id": "POL-10141",
+    "building_id": "BLD-7141",
+    "address": "Plot 44, Sector 9, Demo Town",
+    "lat": 13.23307,
+    "lng": 102.014649,
+    "construction_type": "rcc",
+    "year_built": 1980,
+    "storeys": 5,
+    "insured_value": 23250000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4650000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 465000.0
+  },
+  {
+    "policy_id": "POL-10142",
+    "building_id": "BLD-7142",
+    "address": "Plot 219, Sector 12, Demo Town",
+    "lat": 14.552778,
+    "lng": 100.086921,
+    "construction_type": "rcc",
+    "year_built": 1959,
+    "storeys": 4,
+    "insured_value": 26190000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5238000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 523800.0
+  },
+  {
+    "policy_id": "POL-10143",
+    "building_id": "BLD-7143",
+    "address": "Plot 23, Sector 30, Demo Town",
+    "lat": 13.647534,
+    "lng": 99.717784,
+    "construction_type": "steel",
+    "year_built": 2015,
+    "storeys": 6,
+    "insured_value": 36290000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7258000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 725800.0
+  },
+  {
+    "policy_id": "POL-10144",
+    "building_id": "BLD-7144",
+    "address": "Plot 330, Sector 28, Demo Town",
+    "lat": 14.070775,
+    "lng": 101.136226,
+    "construction_type": "masonry",
+    "year_built": 1970,
+    "storeys": 1,
+    "insured_value": 21190000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4238000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 423800.0
+  },
+  {
+    "policy_id": "POL-10145",
+    "building_id": "BLD-7145",
+    "address": "Plot 30, Sector 14, Demo Town",
+    "lat": 12.904906,
+    "lng": 101.079077,
+    "construction_type": "steel",
+    "year_built": 2000,
+    "storeys": 1,
+    "insured_value": 36880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7376000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 737600.0
+  },
+  {
+    "policy_id": "POL-10146",
+    "building_id": "BLD-7146",
+    "address": "Plot 170, Sector 11, Demo Town",
+    "lat": 14.093848,
+    "lng": 101.146308,
+    "construction_type": "mixed",
+    "year_built": 1953,
+    "storeys": 3,
+    "insured_value": 47230000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9446000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 944600.0
+  },
+  {
+    "policy_id": "POL-10147",
+    "building_id": "BLD-7147",
+    "address": "Plot 382, Sector 17, Demo Town",
+    "lat": 13.774204,
+    "lng": 101.724698,
+    "construction_type": "masonry",
+    "year_built": 1975,
+    "storeys": 5,
+    "insured_value": 24710000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4942000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 494200.0
+  },
+  {
+    "policy_id": "POL-10148",
+    "building_id": "BLD-7148",
+    "address": "Plot 391, Sector 21, Demo Town",
+    "lat": 13.557032,
+    "lng": 99.729393,
+    "construction_type": "rcc",
+    "year_built": 2014,
+    "storeys": 3,
+    "insured_value": 34910000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6982000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 698200.0
+  },
+  {
+    "policy_id": "POL-10149",
+    "building_id": "BLD-7149",
+    "address": "Plot 29, Sector 18, Demo Town",
+    "lat": 13.645756,
+    "lng": 99.687973,
+    "construction_type": "masonry",
+    "year_built": 1984,
+    "storeys": 4,
+    "insured_value": 47820000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9564000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 956400.0
+  },
+  {
+    "policy_id": "POL-10150",
+    "building_id": "BLD-7150",
+    "address": "Plot 126, Sector 28, Demo Town",
+    "lat": 13.951398,
+    "lng": 101.368814,
+    "construction_type": "rcc",
+    "year_built": 1990,
+    "storeys": 6,
+    "insured_value": 11980000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2396000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 239600.0
+  },
+  {
+    "policy_id": "POL-10151",
+    "building_id": "BLD-7151",
+    "address": "Plot 99, Sector 9, Demo Town",
+    "lat": 14.205869,
+    "lng": 100.955415,
+    "construction_type": "masonry",
+    "year_built": 1961,
+    "storeys": 6,
+    "insured_value": 43750000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8750000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 875000.0
+  },
+  {
+    "policy_id": "POL-10152",
+    "building_id": "BLD-7152",
+    "address": "Plot 193, Sector 22, Demo Town",
+    "lat": 14.503451,
+    "lng": 100.676717,
+    "construction_type": "mixed",
+    "year_built": 2001,
+    "storeys": 6,
+    "insured_value": 23820000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4764000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 476400.0
+  },
+  {
+    "policy_id": "POL-10153",
+    "building_id": "BLD-7153",
+    "address": "Plot 335, Sector 10, Demo Town",
+    "lat": 14.056775,
+    "lng": 101.167675,
+    "construction_type": "masonry",
+    "year_built": 1960,
+    "storeys": 5,
+    "insured_value": 22890000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4578000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 457800.0
+  },
+  {
+    "policy_id": "POL-10154",
+    "building_id": "BLD-7154",
+    "address": "Plot 219, Sector 9, Demo Town",
+    "lat": 14.419394,
+    "lng": 100.455248,
+    "construction_type": "masonry",
+    "year_built": 1998,
+    "storeys": 2,
+    "insured_value": 18540000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 3708000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 370800.0
+  },
+  {
+    "policy_id": "POL-10155",
+    "building_id": "BLD-7155",
+    "address": "Plot 365, Sector 25, Demo Town",
+    "lat": 12.780521,
+    "lng": 101.158115,
+    "construction_type": "wood",
+    "year_built": 1996,
+    "storeys": 5,
+    "insured_value": 48930000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9786000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 978600.0
+  },
+  {
+    "policy_id": "POL-10156",
+    "building_id": "BLD-7156",
+    "address": "Plot 136, Sector 1, Demo Town",
+    "lat": 14.322278,
+    "lng": 99.631738,
+    "construction_type": "rcc",
+    "year_built": 1953,
+    "storeys": 6,
+    "insured_value": 37470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7494000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 749400.0
+  },
+  {
+    "policy_id": "POL-10157",
+    "building_id": "BLD-7157",
+    "address": "Plot 243, Sector 23, Demo Town",
+    "lat": 14.501053,
+    "lng": 100.308965,
+    "construction_type": "wood",
+    "year_built": 2006,
+    "storeys": 5,
+    "insured_value": 12480000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2496000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 249600.0
+  },
+  {
+    "policy_id": "POL-10158",
+    "building_id": "BLD-7158",
+    "address": "Plot 175, Sector 26, Demo Town",
+    "lat": 12.957775,
+    "lng": 101.070477,
+    "construction_type": "rcc",
+    "year_built": 2005,
+    "storeys": 2,
+    "insured_value": 48280000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9656000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 965600.0
+  },
+  {
+    "policy_id": "POL-10159",
+    "building_id": "BLD-7159",
+    "address": "Plot 279, Sector 19, Demo Town",
+    "lat": 12.772169,
+    "lng": 101.275257,
+    "construction_type": "masonry",
+    "year_built": 1991,
+    "storeys": 1,
+    "insured_value": 42370000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8474000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 847400.0
+  },
+  {
+    "policy_id": "POL-10160",
+    "building_id": "BLD-7160",
+    "address": "Plot 191, Sector 24, Demo Town",
+    "lat": 13.819709,
+    "lng": 101.88722,
+    "construction_type": "mixed",
+    "year_built": 1961,
+    "storeys": 4,
+    "insured_value": 24220000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4844000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 484400.0
+  },
+  {
+    "policy_id": "POL-10161",
+    "building_id": "BLD-7161",
+    "address": "Plot 39, Sector 18, Demo Town",
+    "lat": 13.734684,
+    "lng": 101.723247,
+    "construction_type": "mixed",
+    "year_built": 1951,
+    "storeys": 2,
+    "insured_value": 49540000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9908000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 990800.0
+  },
+  {
+    "policy_id": "POL-10162",
+    "building_id": "BLD-7162",
+    "address": "Plot 29, Sector 19, Demo Town",
+    "lat": 13.893044,
+    "lng": 101.814886,
+    "construction_type": "rcc",
+    "year_built": 1958,
+    "storeys": 4,
+    "insured_value": 28240000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5648000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 564800.0
+  },
+  {
+    "policy_id": "POL-10163",
+    "building_id": "BLD-7163",
+    "address": "Plot 173, Sector 19, Demo Town",
+    "lat": 13.586669,
+    "lng": 99.984922,
+    "construction_type": "mixed",
+    "year_built": 1952,
+    "storeys": 1,
+    "insured_value": 28090000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5618000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 561800.0
+  },
+  {
+    "policy_id": "POL-10164",
+    "building_id": "BLD-7164",
+    "address": "Plot 156, Sector 13, Demo Town",
+    "lat": 14.089267,
+    "lng": 99.418885,
+    "construction_type": "steel",
+    "year_built": 1982,
+    "storeys": 4,
+    "insured_value": 43560000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8712000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 871200.0
+  },
+  {
+    "policy_id": "POL-10165",
+    "building_id": "BLD-7165",
+    "address": "Plot 139, Sector 30, Demo Town",
+    "lat": 12.714001,
+    "lng": 101.165351,
+    "construction_type": "masonry",
+    "year_built": 1960,
+    "storeys": 1,
+    "insured_value": 30360000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6072000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 607200.0
+  },
+  {
+    "policy_id": "POL-10166",
+    "building_id": "BLD-7166",
+    "address": "Plot 256, Sector 22, Demo Town",
+    "lat": 13.021663,
+    "lng": 101.865335,
+    "construction_type": "rcc",
+    "year_built": 2022,
+    "storeys": 6,
+    "insured_value": 26010000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5202000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 520200.0
+  },
+  {
+    "policy_id": "POL-10167",
+    "building_id": "BLD-7167",
+    "address": "Plot 84, Sector 25, Demo Town",
+    "lat": 13.563086,
+    "lng": 100.008097,
+    "construction_type": "wood",
+    "year_built": 1956,
+    "storeys": 3,
+    "insured_value": 20030000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4006000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 400600.0
+  },
+  {
+    "policy_id": "POL-10168",
+    "building_id": "BLD-7168",
+    "address": "Plot 20, Sector 19, Demo Town",
+    "lat": 14.433145,
+    "lng": 99.526552,
+    "construction_type": "masonry",
+    "year_built": 1986,
+    "storeys": 2,
+    "insured_value": 30880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6176000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 617600.0
+  },
+  {
+    "policy_id": "POL-10169",
+    "building_id": "BLD-7169",
+    "address": "Plot 210, Sector 5, Demo Town",
+    "lat": 14.390968,
+    "lng": 99.591149,
+    "construction_type": "wood",
+    "year_built": 2015,
+    "storeys": 1,
+    "insured_value": 40000000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 8000000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 800000.0
+  },
+  {
+    "policy_id": "POL-10170",
+    "building_id": "BLD-7170",
+    "address": "Plot 172, Sector 30, Demo Town",
+    "lat": 14.732547,
+    "lng": 100.229115,
+    "construction_type": "masonry",
+    "year_built": 2000,
+    "storeys": 3,
+    "insured_value": 3350000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 670000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 67000.0
+  },
+  {
+    "policy_id": "POL-10171",
+    "building_id": "BLD-7171",
+    "address": "Plot 175, Sector 25, Demo Town",
+    "lat": 13.032973,
+    "lng": 101.8924,
+    "construction_type": "masonry",
+    "year_built": 2021,
+    "storeys": 1,
+    "insured_value": 20880000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4176000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 417600.0
+  },
+  {
+    "policy_id": "POL-10172",
+    "building_id": "BLD-7172",
+    "address": "Plot 120, Sector 27, Demo Town",
+    "lat": 13.862442,
+    "lng": 101.820142,
+    "construction_type": "rcc",
+    "year_built": 1984,
+    "storeys": 5,
+    "insured_value": 44720000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 8944000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 894400.0
+  },
+  {
+    "policy_id": "POL-10173",
+    "building_id": "BLD-7173",
+    "address": "Plot 138, Sector 15, Demo Town",
+    "lat": 14.663804,
+    "lng": 99.962614,
+    "construction_type": "rcc",
+    "year_built": 1953,
+    "storeys": 3,
+    "insured_value": 20690000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4138000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 413800.0
+  },
+  {
+    "policy_id": "POL-10174",
+    "building_id": "BLD-7174",
+    "address": "Plot 120, Sector 26, Demo Town",
+    "lat": 12.777687,
+    "lng": 101.118887,
+    "construction_type": "rcc",
+    "year_built": 2009,
+    "storeys": 4,
+    "insured_value": 36370000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7274000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 727400.0
+  },
+  {
+    "policy_id": "POL-10175",
+    "building_id": "BLD-7175",
+    "address": "Plot 100, Sector 19, Demo Town",
+    "lat": 14.429303,
+    "lng": 100.53721,
+    "construction_type": "rcc",
+    "year_built": 1995,
+    "storeys": 6,
+    "insured_value": 28180000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5636000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 563600.0
+  },
+  {
+    "policy_id": "POL-10176",
+    "building_id": "BLD-7176",
+    "address": "Plot 132, Sector 22, Demo Town",
+    "lat": 12.934158,
+    "lng": 101.915561,
+    "construction_type": "masonry",
+    "year_built": 2008,
+    "storeys": 3,
+    "insured_value": 34470000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6894000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 689400.0
+  },
+  {
+    "policy_id": "POL-10177",
+    "building_id": "BLD-7177",
+    "address": "Plot 261, Sector 6, Demo Town",
+    "lat": 14.445353,
+    "lng": 100.59006,
+    "construction_type": "rcc",
+    "year_built": 1957,
+    "storeys": 5,
+    "insured_value": 25140000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 5028000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 502800.0
+  },
+  {
+    "policy_id": "POL-10178",
+    "building_id": "BLD-7178",
+    "address": "Plot 216, Sector 26, Demo Town",
+    "lat": 12.795844,
+    "lng": 101.36458,
+    "construction_type": "masonry",
+    "year_built": 2011,
+    "storeys": 4,
+    "insured_value": 31210000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6242000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 624200.0
+  },
+  {
+    "policy_id": "POL-10179",
+    "building_id": "BLD-7179",
+    "address": "Plot 73, Sector 5, Demo Town",
+    "lat": 12.646292,
+    "lng": 101.363662,
+    "construction_type": "masonry",
+    "year_built": 1964,
+    "storeys": 6,
+    "insured_value": 10100000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2020000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 202000.0
+  },
+  {
+    "policy_id": "POL-10180",
+    "building_id": "BLD-7180",
+    "address": "Plot 362, Sector 5, Demo Town",
+    "lat": 13.235568,
+    "lng": 102.044118,
+    "construction_type": "rcc",
+    "year_built": 1959,
+    "storeys": 1,
+    "insured_value": 4330000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 866000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 86600.0
+  },
+  {
+    "policy_id": "POL-10181",
+    "building_id": "BLD-7181",
+    "address": "Plot 125, Sector 27, Demo Town",
+    "lat": 13.718963,
+    "lng": 99.569532,
+    "construction_type": "rcc",
+    "year_built": 2012,
+    "storeys": 3,
+    "insured_value": 13090000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 2618000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 261800.0
+  },
+  {
+    "policy_id": "POL-10182",
+    "building_id": "BLD-7182",
+    "address": "Plot 66, Sector 3, Demo Town",
+    "lat": 14.704906,
+    "lng": 99.875089,
+    "construction_type": "rcc",
+    "year_built": 2016,
+    "storeys": 5,
+    "insured_value": 31070000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 6214000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 621400.0
+  },
+  {
+    "policy_id": "POL-10183",
+    "building_id": "BLD-7183",
+    "address": "Plot 155, Sector 19, Demo Town",
+    "lat": 14.331662,
+    "lng": 99.671985,
+    "construction_type": "wood",
+    "year_built": 1964,
+    "storeys": 6,
+    "insured_value": 46220000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 9244000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 924400.0
+  },
+  {
+    "policy_id": "POL-10184",
+    "building_id": "BLD-7184",
+    "address": "Plot 149, Sector 30, Demo Town",
+    "lat": 14.121827,
+    "lng": 99.58235,
+    "construction_type": "rcc",
+    "year_built": 1985,
+    "storeys": 3,
+    "insured_value": 47240000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9448000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 944800.0
+  },
+  {
+    "policy_id": "POL-10185",
+    "building_id": "BLD-7185",
+    "address": "Plot 233, Sector 15, Demo Town",
+    "lat": 13.917426,
+    "lng": 101.535137,
+    "construction_type": "rcc",
+    "year_built": 1990,
+    "storeys": 3,
+    "insured_value": 2730000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 546000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 54600.0
+  },
+  {
+    "policy_id": "POL-10186",
+    "building_id": "BLD-7186",
+    "address": "Plot 64, Sector 5, Demo Town",
+    "lat": 14.24352,
+    "lng": 101.077055,
+    "construction_type": "wood",
+    "year_built": 1961,
+    "storeys": 2,
+    "insured_value": 34830000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 6966000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 696600.0
+  },
+  {
+    "policy_id": "POL-10187",
+    "building_id": "BLD-7187",
+    "address": "Plot 68, Sector 25, Demo Town",
+    "lat": 13.60064,
+    "lng": 99.611787,
+    "construction_type": "wood",
+    "year_built": 1965,
+    "storeys": 2,
+    "insured_value": 3720000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 744000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 74400.0
+  },
+  {
+    "policy_id": "POL-10188",
+    "building_id": "BLD-7188",
+    "address": "Plot 179, Sector 9, Demo Town",
+    "lat": 14.557042,
+    "lng": 100.41985,
+    "construction_type": "rcc",
+    "year_built": 1973,
+    "storeys": 4,
+    "insured_value": 12160000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 2432000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 243200.0
+  },
+  {
+    "policy_id": "POL-10189",
+    "building_id": "BLD-7189",
+    "address": "Plot 102, Sector 19, Demo Town",
+    "lat": 12.865591,
+    "lng": 101.22088,
+    "construction_type": "rcc",
+    "year_built": 2012,
+    "storeys": 1,
+    "insured_value": 8600000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 1720000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 172000.0
+  },
+  {
+    "policy_id": "POL-10190",
+    "building_id": "BLD-7190",
+    "address": "Plot 224, Sector 15, Demo Town",
+    "lat": 14.165313,
+    "lng": 101.147739,
+    "construction_type": "masonry",
+    "year_built": 1997,
+    "storeys": 4,
+    "insured_value": 39250000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7850000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 785000.0
+  },
+  {
+    "policy_id": "POL-10191",
+    "building_id": "BLD-7191",
+    "address": "Plot 241, Sector 25, Demo Town",
+    "lat": 13.063005,
+    "lng": 101.940366,
+    "construction_type": "masonry",
+    "year_built": 1988,
+    "storeys": 1,
+    "insured_value": 20160000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 4032000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 403200.0
+  },
+  {
+    "policy_id": "POL-10192",
+    "building_id": "BLD-7192",
+    "address": "Plot 45, Sector 29, Demo Town",
+    "lat": 13.883932,
+    "lng": 99.604099,
+    "construction_type": "rcc",
+    "year_built": 2015,
+    "storeys": 1,
+    "insured_value": 17310000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 3462000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 346200.0
+  },
+  {
+    "policy_id": "POL-10193",
+    "building_id": "BLD-7193",
+    "address": "Plot 211, Sector 8, Demo Town",
+    "lat": 14.453902,
+    "lng": 99.608389,
+    "construction_type": "rcc",
+    "year_built": 1993,
+    "storeys": 4,
+    "insured_value": 21950000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 4390000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 439000.0
+  },
+  {
+    "policy_id": "POL-10194",
+    "building_id": "BLD-7194",
+    "address": "Plot 189, Sector 1, Demo Town",
+    "lat": 14.599967,
+    "lng": 100.187433,
+    "construction_type": "rcc",
+    "year_built": 1955,
+    "storeys": 3,
+    "insured_value": 27850000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5570000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 557000.0
+  },
+  {
+    "policy_id": "POL-10195",
+    "building_id": "BLD-7195",
+    "address": "Plot 15, Sector 12, Demo Town",
+    "lat": 13.900467,
+    "lng": 101.566755,
+    "construction_type": "masonry",
+    "year_built": 2018,
+    "storeys": 5,
+    "insured_value": 37230000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_1",
+    "sub_limits": {
+      "contents": 7446000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 744600.0
+  },
+  {
+    "policy_id": "POL-10196",
+    "building_id": "BLD-7196",
+    "address": "Plot 253, Sector 4, Demo Town",
+    "lat": 14.303788,
+    "lng": 99.674141,
+    "construction_type": "wood",
+    "year_built": 1984,
+    "storeys": 5,
+    "insured_value": 28710000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5742000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 574200.0
+  },
+  {
+    "policy_id": "POL-10197",
+    "building_id": "BLD-7197",
+    "address": "Plot 316, Sector 18, Demo Town",
+    "lat": 12.749803,
+    "lng": 101.712785,
+    "construction_type": "rcc",
+    "year_built": 1956,
+    "storeys": 5,
+    "insured_value": 38100000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7620000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 762000.0
+  },
+  {
+    "policy_id": "POL-10198",
+    "building_id": "BLD-7198",
+    "address": "Plot 58, Sector 24, Demo Town",
+    "lat": 14.539765,
+    "lng": 100.128069,
+    "construction_type": "rcc",
+    "year_built": 2005,
+    "storeys": 1,
+    "insured_value": 38480000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 7696000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 769600.0
+  },
+  {
+    "policy_id": "POL-10199",
+    "building_id": "BLD-7199",
+    "address": "Plot 271, Sector 3, Demo Town",
+    "lat": 12.767802,
+    "lng": 101.371604,
+    "construction_type": "masonry",
+    "year_built": 2011,
+    "storeys": 2,
+    "insured_value": 46870000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 9374000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 937400.0
+  },
+  {
+    "policy_id": "POL-10200",
+    "building_id": "BLD-7200",
+    "address": "Plot 257, Sector 4, Demo Town",
+    "lat": 12.905628,
+    "lng": 101.574203,
+    "construction_type": "masonry",
+    "year_built": 1999,
+    "storeys": 4,
+    "insured_value": 28530000.0,
+    "ornateness_score_baseline": null,
+    "hazard_risk_score": null,
+    "policy_document_id": "doc_policy_2",
+    "sub_limits": {
+      "contents": 5706000.0,
+      "rebuild_modifier_cap": 1.5
+    },
+    "deductible": 570600.0
+  }
+]

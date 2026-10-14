@@ -1,0 +1,73 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CAT Command Center</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <style>
+    html, body { height: 100%; margin: 0; font-family: system-ui, sans-serif; }
+    body { display: flex; }
+    #side { width: 390px; padding: 14px; overflow-y: auto; border-right: 1px solid #ccc; box-sizing: border-box; }
+    #map { flex: 1; min-width: 0; height: 100vh; background: #dfe8ee; }
+    h1 { font-size: 18px; margin: 0 0 8px; }
+    h2 { font-size: 14px; margin: 14px 0 4px; }
+    .legend span { display: inline-block; width: 12px; height: 12px; margin-right: 6px; border-radius: 2px; }
+    .legend .ring { background: #fff; border: 3px solid; width: 8px; height: 8px; border-radius: 50%; }
+    table { font-size: 12px; border-collapse: collapse; width: 100%; }
+    td, th { padding: 2px 4px; text-align: left; vertical-align: top; }
+    .note { font-size: 11px; color: #666; margin-top: 12px; }
+    .banner { background: #fff8e1; border: 1px solid #f9a825; padding: 6px 8px; font-size: 12px; margin: 8px 0; }
+    #queue { max-height: 300px; overflow-y: auto; border: 1px solid #ddd; }
+    .q { display: flex; gap: 6px; align-items: center; padding: 5px 6px; font-size: 12px; border-bottom: 1px solid #eee; cursor: pointer; }
+    .q:hover, .q.sel { background: #eef4ff; }
+    .q .rank { width: 26px; font-weight: 600; }
+    .q .id { width: 76px; }
+    .q .meta { flex: 1; color: #555; }
+    .badge { color: #fff; border-radius: 9px; padding: 1px 7px; font-size: 11px; white-space: nowrap; }
+    #detail { font-size: 12px; margin-top: 10px; }
+    #detail .box { border: 1px solid #ddd; padding: 8px; border-radius: 4px; }
+    .skip { color: #888; font-style: italic; }
+    select { margin-left: 6px; }
+  </style>
+</head>
+<body>
+  <div id="side">
+    <h1>CAT Command Center</h1>
+    <div id="banner"></div>
+    <label><input type="checkbox" id="t-proj" checked> Show projections</label><br>
+    <label><input type="checkbox" id="t-safe" checked> Show unaffected buildings</label>
+
+    <h2>Legend</h2>
+    <div class="legend">
+      <div><span style="background:#b71c1c"></span>Extreme</div>
+      <div><span style="background:#e65100"></span>High</div>
+      <div><span style="background:#f9a825"></span>Moderate</div>
+      <div><span style="background:#7b1fa2"></span>In projected path</div>
+      <div><span style="background:#78909c"></span>Unaffected</div>
+      <div style="margin-top:4px">Fill = hazard band. Outline = recommendation:
+        <span class="ring" style="border-color:#2e7d32"></span>fast-track
+        <span class="ring" style="border-color:#1565c0"></span>standard
+        <span class="ring" style="border-color:#c62828"></span>manual review
+        <span class="ring" style="border-color:#6a1b9a"></span>needs info</div>
+    </div>
+
+    <h2>Claim queue <select id="filter">
+      <option value="">all</option>
+      <option value="fast_track">fast-track</option>
+      <option value="standard">standard</option>
+      <option value="manual_review">manual review</option>
+      <option value="needs_info">needs info</option>
+    </select></h2>
+    <div id="qcount" class="note" style="margin:0 0 4px"></div>
+    <div id="queue"></div>
+    <div id="detail"></div>
+
+    <div id="events"></div>
+    <div class="note">Hazard polygons and projections are estimates. Typhoon and any simulated fire are synthetic. All buildings and claims are fictional. Recommendations are for human review; nothing is auto-denied.</div>
+  </div>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
